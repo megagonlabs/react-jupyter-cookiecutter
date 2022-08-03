@@ -1,0 +1,12 @@
+{
+	"author_name": "Megagon Labs",
+	"author_email": "",
+	"github_project_name": "jupyter-widget-example",
+	"github_organization_name": "rit-git",
+	"python_package_name": "{{ cookiecutter.github_project_name | replace('-', '_') }}",
+	"npm_package_name": "{{ cookiecutter.github_project_name }}",
+	"project_short_description": "A Custom Jupyter Widget Library",
+    "_copy_without_render": [
+		"js/src/*.js"
+    ]
+}
