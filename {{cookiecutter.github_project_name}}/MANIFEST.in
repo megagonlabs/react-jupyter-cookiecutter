@@ -1,0 +1,2 @@
+include {{ cookiecutter.python_package_name }}/bundle.min.js
+include {{ cookiecutter.python_package_name }}/version
