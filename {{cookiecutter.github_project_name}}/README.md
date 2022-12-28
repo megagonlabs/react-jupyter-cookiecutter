@@ -14,7 +14,7 @@ Widget().show()
 - Periodically delete JS files created by {{ cookiecutter.github_project_name }} under `/Users/[username]/Library/Application Support/idom-jupyter/`
   - run `whoami` to get username from the terminal (macOS)
 ## Disclosures
-![last-updated](https://img.shields.io/badge/Last%20Updated-Dec%2028%20,2022-lightgrey)
+![last-updated](https://img.shields.io/badge/Last%20Updated-Dec%2028,2022-lightgrey)
 |Library|License|
 |:-|:-|
 |[idom](https://pypi.org/project/idom/)|[MIT](https://choosealicense.com/licenses/mit/)|
