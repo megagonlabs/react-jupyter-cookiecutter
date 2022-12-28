@@ -18,7 +18,7 @@ Widget().show()
 |Library|License|
 |:-|:-|
 |[idom](https://pypi.org/project/idom/)|[MIT](https://choosealicense.com/licenses/mit/)|
-|[idom-jupyter](https://pypi.org/project/idom-jupyter/)|:warning: Missing|
+|[idom-jupyter](https://pypi.org/project/idom-jupyter/)|[MIT](https://choosealicense.com/licenses/mit/)|
 |[@babel/core](https://www.npmjs.com/package/@babel/core)|[MIT](https://choosealicense.com/licenses/mit/)|
 |[@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)|[MIT](https://choosealicense.com/licenses/mit/)|
 |[@babel/preset-react](https://www.npmjs.com/package/@babel/preset-react)|[MIT](https://choosealicense.com/licenses/mit/)|
